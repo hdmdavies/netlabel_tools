@@ -144,7 +144,7 @@ enum {
 
 /* CALIPSO DOI map types */
 #define CALIPSO_MAP_UNKNOWN		0
-#define CALIPSO_MAP_PASS		1
+#define CALIPSO_MAP_PASS		2
 
 /**
  * NetLabel CALIPSO commands
